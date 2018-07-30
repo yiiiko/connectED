@@ -1,0 +1,183 @@
+<style>
+
+h1{
+  font-size:200%;
+  font-family: Arial, sans-serif;
+  border-bottom: 40px;
+  border-top: 300px;
+  color:#3aafa9
+}
+
+h2{
+  font-size: 800%;
+  font-weight: bold;
+
+  margin-bottom: 200px;
+  color:#17252a;
+}
+
+h3{
+  font-size: 200%;
+  text-align:center;
+  margin: 0px;
+  text-decoration: none;
+}
+h4{
+  font-size: 200%;
+  color:#3aafa9;
+  background-color:#FFFFFF;
+  margin:0px;
+  margin-bottom: 3px;
+  font-family: "Times New Roman", Times, serif;
+}
+h5{
+  color:white;
+  font-size: 150%;
+  padding:10px;
+  margin-left: 50px;
+  margin-bottom:0px;
+  font-weight: bold;
+
+}
+h6{font-size: 150%;
+color:#3aafa9;
+background-color:#FFFFFF;
+margin:0px;
+float:left;
+margin-bottom: 3px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+
+a{
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+
+  p{
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+
+  img{
+    border: 100px;
+  }
+
+nav{
+  background-color: #FFFFFF;
+  text-align: center;
+  font-weight: bold;
+  width:100%;
+}
+
+
+header{
+  background-image: url("graduates.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#3aafa9;
+  width:100%;
+  height:400px;
+  background-position:center;
+  color: #17252a;
+  font-family: Arial, sans-serif;
+  border-top: 20px;
+  border-right: 100px;
+  padding: 60px;
+  text-align: center;
+  font-weight: bold;
+  position:sticky;
+}
+
+
+body {
+    /* margin-top: 100px; */
+    margin: 0;
+    color: #17252a;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+footer{
+background-color: #3aafa9;
+color: white;
+width:100%;
+font-size:.90em;
+text-align: left;
+
+}
+
+ul {
+    background-color: #3aafa9;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    background-color: #3aafa9;
+    color:white;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:hover:not(.active) {
+    background-color: #def2f1;
+    color:#2b7a78;
+
+}
+
+form {
+font-family: Arial, sans-serif;
+padding: 10px; }
+label { float: left;
+width: 100px;
+clear: left;
+text-align: right;
+padding-right: 10px;
+margin-top: 0; }
+input, textarea { margin-top: 10px;
+display: block; }
+#mySubmit { margin-left: 110px; }
+
+.active {
+    background-color: #2b7a78;
+    color: white;
+}
+
+
+.button {
+    background-color: #2b7a78;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family:  Arial, sans-serif;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-bottom: 80px;
+    border-radius: 10px;
+    margin-top: 60px;
+    font-family: Arial, sans-serif;
+}
+
+#wrapper{
+  width: 100%;
+  margin-right: 0px;
+  margin-left: auto;
+}
+</style>
